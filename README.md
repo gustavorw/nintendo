@@ -1,6 +1,6 @@
 ## Nintendo Switch
-Desafios de layout F-team
+Desafios de layout **F-Team**
 
 ### Screenshot
 
-<image src="flutter_01.png"></image>
+<image src="screenshot.png" height="600"></image>
